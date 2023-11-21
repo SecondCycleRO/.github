@@ -22,7 +22,7 @@ The backend repository contains all server-side operations, database interaction
 
 ## Contributing
 
-If you're interested in contributing, please read the [contributing guidelines](https://github.com/SecondCycleRO/.github/CONTRIBUTING.md). 
+If you're interested in contributing, please read the [contributing guidelines](https://github.com/SecondCycleRO/.github/blob/master/CONTRIBUTING.MD). 
 
 ## Vision and Goals
 
