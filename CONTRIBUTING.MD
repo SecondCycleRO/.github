@@ -35,6 +35,6 @@ This guide will provide all the necessary information to get started.
 
 - **Learning Git:** Familiarize yourself with our workflow by completing these tutorials:
   - [Git branching tutorial](https://learngitbranching.js.org/)
-  - [Git workflow tutorial](https://learngitbranching.js.org/)
+  - [Git workflow tutorial](https://www.robinwieruch.de/prettier-eslint/)
 - **Code Style:** Learn how to set up Prettier and ESLint with this guide:
   - [How to use Prettier with ESLint](https://www.robinwieruch.de/prettier-eslint/)
