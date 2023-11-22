@@ -8,16 +8,16 @@ Welcome to SecondCycle!
 
 The frontend repository hosts the user interface and client-side logic of the SecondCycle platform. It is developed using React and TypeScript, following modern web development practices.
 
-- **Repository:** [SecondCycle Frontend](https://github.com/SecondCycleRO/frontend)
-- **Main Technologies:** React, TypeScript, Create React App
+- **Repository:** [SecondCycle Frontend](https://github.com/SecondCycleRO/frontend).
+- **Main Technologies:** React, TypeScript.
 - **Getting Started:** Instructions for setting up the frontend are available in the [Frontend README](https://github.com/SecondCycleRO/frontend/blob/develop/README.md).
 
 ### Backend
 
 The backend repository contains all server-side operations, database interactions, and API management for the SecondCycle platform. It is built with Node.js, Express, MongoDB, and Mongoose.
 
-- **Repository:** [SecondCycle Backend](https://github.com/SecondCycleRO/backend)
-- **Main Technologies:** Node.js, Express, MongoDB
+- **Repository:** [SecondCycle Backend](https://github.com/SecondCycleRO/backend).
+- **Main Technologies:** Node.js, Express, MongoDB, Mongoose.
 - **Getting Started:** Instructions to set up and run the backend can be found in the [Backend README](https://github.com/SecondCycleRO/backend/blob/develop/README.md).
 
 ## Contributing
